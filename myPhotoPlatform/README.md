@@ -7,7 +7,7 @@ A modern Instagram clone built with React Native and Expo, featuring a clean UI 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <img src="./screenshots/home_screen.png" alt="Home Screen" width="19%" />
     <img src="./screenshots/search_screen.png" alt="Search Screen" width="19%" />
-    <img src="./screenshots/add_screen.png" alt="Add Screen" width="19%" />
+    <!-- <img src="./screenshots/add_screen.png" alt="Add Screen" width="19%" /> -->
     <img src="./screenshots/reel_screen.png" alt="Reel Screen" width="19%" />
     <img src="./screenshots/profile_screen.png" alt="Profile Screen" width="19%" />
 </div>

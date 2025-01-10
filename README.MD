@@ -12,6 +12,8 @@ Here are the projects included in this repository:
    - 📜 Playlist creation and management
    - 🌓 Light/Dark theme support
    - 🔍 Search functionality
+   
+   ![MyMusic Screenshot](./mymusic/screenshots/home_screen.png)
 
 2. **MyPhotoPlatform**: An Instagram-like social media platform featuring:
    - 📱 Modern UI/UX inspired by Instagram
@@ -19,6 +21,8 @@ Here are the projects included in this repository:
    - 📸 Stories viewer and creation
    - 🎬 Reels player with interactions
    - 💬 Direct messaging interface
+   
+   ![MyPhotoPlatform Screenshot](./myPhotoPlatform/screenshots/home_screen.png)
 
 3. **NyarV3**: A modern expense management application featuring:
    - 📱 Modern UI/UX for managing expenses
@@ -26,6 +30,8 @@ Here are the projects included in this repository:
    - 👥 Groups management
    - 👤 Friends management
    - 💸 Bills and transactions tracking
+   
+   ![NyarV3 Screenshot](./nyar_v3/screenshots/home_screen.png)
 
 Each project is built with React Native and Expo, featuring clean UI with both light and dark theme support. You can find detailed documentation, installation instructions, and usage guides in each project's respective directory:
 

@@ -1,6 +1,6 @@
 # React Native Projects
 
-Welcome to my React Native Projects repository! This repository contains a collection of React Native projects that I've built with the help of GitHub Copilot. Each project showcases different features and functionalities of React Native, providing a comprehensive overview of what can be achieved with this powerful framework.
+All the projects in this repo are generated using GitHub Copilot through prompting, without writing a single line of code by myself. This demonstrates the power and capabilities of AI-assisted development, allowing for rapid prototyping and development of complex applications.
 
 ## Projects
 
